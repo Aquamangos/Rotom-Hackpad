@@ -13,11 +13,20 @@ Reassembling a Phone Rotom from the popular series [Pokemon]
 # [BOM]
 
 1x Seeed XIAO RP2040
+
 9x through-hole 1N4148 Diodes
+
 9x MX-Style switches
+
 1x EC11 Rotary encoders
+
 1x 0.91 inch OLED display 
+
 9x white blank DSA keycaps
+
 9x SK6812 MINI-E LEDs
+
 4x M3x16mm screws
+
 4x M3x5mx4mm heatset inserts
+
