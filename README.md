@@ -4,8 +4,11 @@ Reassembling a Phone Rotom from the popular series [Pokemon]
 
 # Main features include;
 9 programable buttons for macros/keys
+
 1 Rotary encoder knob for volume control
+
 1 OLED display for his mouth
+
 + Rotom to look at 
 
 # Images here
