@@ -1,6 +1,6 @@
 # Keyboard Rotom
-A 3x3 matrix mini keyboard and a knob. 
-Reassembling a Phone Rotom from the popular series [Pokemon]
+A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series [Pokemon]
++ you get to look at a rotom all day
 
 # Main features include;
 9 programable buttons for macros/keys
@@ -8,8 +8,6 @@ Reassembling a Phone Rotom from the popular series [Pokemon]
 1 Rotary encoder knob for volume control
 
 1 OLED display for his mouth
-
-+ Rotom to look at 
 
 # Images here
 
