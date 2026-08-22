@@ -14,10 +14,8 @@ Full models / simple case designs with Fusion 360.
 
 
 <img width="959" height="704" alt="Fusion360_fqegcN631b" src="https://github.com/user-attachments/assets/694fdbc8-937d-4797-9a87-1e42263b0d12" />
-<img width="924" height="705" alt="Fusion360_hWeplnrKSS" src="https://github.com/user-attachments/assets/a613dc5a-43a3-499d-9b7e-7ffad375226b" />
-<img width="751" height="692" alt="Fusion360_R1Oy6yVh6V" src="https://github.com/user-attachments/assets/f60fa222-3beb-41c5-8c65-ca893cc566ef" />
 <img width="847" height="668" alt="Fusion360_hkWvCgi7EU" src="https://github.com/user-attachments/assets/d23f1204-fcc8-4a0b-ad3f-987a3058a29c" />
-
+<img width="751" height="692" alt="Fusion360_R1Oy6yVh6V" src="https://github.com/user-attachments/assets/f60fa222-3beb-41c5-8c65-ca893cc566ef" />
 
 
 # PCB Schematics
