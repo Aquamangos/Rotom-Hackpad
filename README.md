@@ -1,15 +1,14 @@
 # Keyboard Rotom
-A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series [Pokemon]
+A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series 「Pokémon」
 
 # Main features
 + 9 programable buttons for macros/keys
 + 1 Rotary encoder knob for volume control
-+ 1 OLED display for art/animations
-++ in my case im using the OLED display for his mouth.
++ 1 OLED display for art/animations (In my case its his mouth)
 
 # CAD models
 Full models / simple case designs with Fusion 360.
-The Pokeball is the knob attachment here
+The Pokéball is the knob attachment in this design
 
 
 <img width="959" height="704" alt="Fusion360_fqegcN631b" src="https://github.com/user-attachments/assets/694fdbc8-937d-4797-9a87-1e42263b0d12" />
@@ -27,7 +26,7 @@ First time using KiCad!
 # Bill of Materials
 
 + 1x PCB from JCLPCB
-+ 3x 3D printed parts [top|bottom|knob attachment]
++ 3x 3D printed parts [Top|Bottom|Knob Attachment]
 + 9x through-hole 1N4148 Diodes
 + 9x MX-Style switches
 + 1x EC11 Rotary encoders
