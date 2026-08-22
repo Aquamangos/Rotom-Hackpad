@@ -2,15 +2,14 @@
 A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series [Pokemon]
 
 # Main features
-9 programable buttons for macros/keys
-
-1 Rotary encoder knob for volume control
-
-1 OLED display for art/animations
-+ in my case im using the OLED display for his mouth.
++ 9 programable buttons for macros/keys
++ 1 Rotary encoder knob for volume control
++ 1 OLED display for art/animations
+++ in my case im using the OLED display for his mouth.
 
 # CAD models
 Full models / simple case designs with Fusion 360.
+The Pokeball is the knob attachment here
 
 
 <img width="959" height="704" alt="Fusion360_fqegcN631b" src="https://github.com/user-attachments/assets/694fdbc8-937d-4797-9a87-1e42263b0d12" />
