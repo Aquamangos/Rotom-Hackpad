@@ -5,6 +5,7 @@ A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series ã€
 + 9 programable buttons for macros/keys
 + 1 Rotary encoder knob for volume control
 + 1 OLED display for art/animations (In my case its his mouth)
++ 9 LEDs for cool effects (RBG yay)
 
 # CAD models
 Full models / simple case designs with Fusion 360.
