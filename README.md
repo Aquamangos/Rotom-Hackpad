@@ -1,6 +1,6 @@
 # Keyboard Rotom
 A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series「Pokémon」
-
+Main personal usage would be for volume control and macro keys (mic mute, etc)
 
 # Main features
 + 9 programable buttons for macros/keys
