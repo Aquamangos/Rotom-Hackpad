@@ -17,10 +17,15 @@ The Pokéball is the knob attachment in this design
 <img width="751" height="692" alt="Fusion360_R1Oy6yVh6V" src="https://github.com/user-attachments/assets/f60fa222-3beb-41c5-8c65-ca893cc566ef" />
 
 
+# PCB Model
+
+<img width="551" height="457" alt="kicad_TDXpzFqaDJ" src="https://github.com/user-attachments/assets/76105825-db25-49ce-ba03-975fc4cffc1b" />
+<img width="519" height="472" alt="kicad_RUDZejTS2w" src="https://github.com/user-attachments/assets/3782f21b-ed75-4c2d-8769-30d41744df89" />
+
 # PCB Schematics
 First time using KiCad!
 
-<img width="962" height="880" alt="kicad_6bYR037dYj" src="https://github.com/user-attachments/assets/c4ede86b-efbc-4642-80b8-3a6eed9953e4" />
+<img width="1017" height="875" alt="kicad_tGaMPEkVRI" src="https://github.com/user-attachments/assets/f87124de-59aa-42a7-bff2-a6603e3739b4" />
 <img width="1140" height="785" alt="kicad_90ANCEEfgc" src="https://github.com/user-attachments/assets/05edfd6f-6026-40e1-b976-3719571c9e90" />
 
 
