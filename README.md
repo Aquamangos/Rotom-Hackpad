@@ -18,7 +18,7 @@ The Pokéball is the knob attachment in this design
 
 
 # PCB Model
-Silkscreen MIGHT be a little overkill...
+The amount of silkscreen MIGHT be a little overkill...
 
 <img width="551" height="457" alt="kicad_TDXpzFqaDJ" src="https://github.com/user-attachments/assets/76105825-db25-49ce-ba03-975fc4cffc1b" />
 <img width="519" height="472" alt="kicad_RUDZejTS2w" src="https://github.com/user-attachments/assets/3782f21b-ed75-4c2d-8769-30d41744df89" />
