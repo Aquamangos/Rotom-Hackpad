@@ -1,5 +1,6 @@
 # Keyboard Rotom
-A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series 「Pokémon」
+A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series「Pokémon」
+
 
 # Main features
 + 9 programable buttons for macros/keys
