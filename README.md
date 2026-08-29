@@ -1,3 +1,8 @@
+# Why?
+Quick side project for Hackclub -> Stardance -> [Hackpad Program](https://hackpad.hackclub.com/)
+
+Also rotom seemed cool yk
+
 # Keyboard Rotom
 A 3x3 matrix mini keyboard reassembling a Phone Rotom from the popular series「Pokémon」
 
