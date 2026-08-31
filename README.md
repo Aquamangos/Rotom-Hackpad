@@ -1,5 +1,5 @@
 # Why?
-Quick side project for Hackclub -> Stardance -> [Hackpad Program](https://hackpad.hackclub.com/)
+Quick side project for [Hackclub](https://hackclub.com/) -> [Stardance](https://stardance.hackclub.com) -> [Hackpad Program](https://hackpad.hackclub.com/)
 
 Also rotom seemed cool yk
 
