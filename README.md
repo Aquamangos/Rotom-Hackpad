@@ -14,10 +14,17 @@ Main personal usage would be for volume control and macro keys (mic mute, etc)
 + 1 OLED display for art/animations (In my case its his mouth)
 + 9 LEDs for cool effects (RBG yay)
 
+# Finished Product
+[Rotom Showcase](https://youtube.com/shorts/KLTXd5W2Blc)
+
+<img width="2268" height="4032" alt="IMG_4207" src="https://github.com/user-attachments/assets/484b6669-f428-40f1-95f0-0cb158b7e0cc" />
+<img width="2268" height="4032" alt="IMG_4210" src="https://github.com/user-attachments/assets/419a0e3d-9fb1-4b1f-8c1a-89353d6c6cb7" />
+
+
+
 # CAD models
 Full models / simple case designs with Fusion 360.
 The Pokéball is the knob attachment in this design
-
 
 <img width="959" height="704" alt="Fusion360_fqegcN631b" src="https://github.com/user-attachments/assets/694fdbc8-937d-4797-9a87-1e42263b0d12" />
 <img width="847" height="668" alt="Fusion360_hkWvCgi7EU" src="https://github.com/user-attachments/assets/d23f1204-fcc8-4a0b-ad3f-987a3058a29c" />
