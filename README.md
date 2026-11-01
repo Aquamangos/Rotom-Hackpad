@@ -17,8 +17,8 @@ Main personal usage would be for volume control and macro keys (mic mute, etc)
 # Finished Product
 [Rotom Showcase](https://youtube.com/shorts/KLTXd5W2Blc)
 
-<img width="1134" height="2016" alt="IMG_4207" src="https://github.com/user-attachments/assets/484b6669-f428-40f1-95f0-0cb158b7e0cc" />
-<img width="1134" height="2016" alt="IMG_4210" src="https://github.com/user-attachments/assets/419a0e3d-9fb1-4b1f-8c1a-89353d6c6cb7" />
+<img width="567" height="1008" alt="IMG_4207" src="https://github.com/user-attachments/assets/484b6669-f428-40f1-95f0-0cb158b7e0cc" />
+<img width="567" height="1008" alt="IMG_4210" src="https://github.com/user-attachments/assets/419a0e3d-9fb1-4b1f-8c1a-89353d6c6cb7" />
 
 
 
